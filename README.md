@@ -1,4 +1,4 @@
-# hemodialysis-department-website
+# Hemodialysis-Department-Website
 # Description
 Website for managing hemodialysis depatrment data built using flask with MySQL database 
 # Features
